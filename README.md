@@ -71,10 +71,3 @@
 [<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
 
-[youtube]: https://youtube.com/YauhenKavalchuk
-[instagram]: https://instagram.com/YauhenKavalchuk
-[linkedin]: https://linkedin.com/in/YauhenKavalchuk
-[vk]: https://vk.com/YauhenKavalchuk
-[twitter]: https://twitter.com/YauhenKavalchuk
-[sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
-[patron]: https://www.patreon.com/YauhenKavalchuk
